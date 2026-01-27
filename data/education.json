@@ -1,24 +1,22 @@
 {
-  "_instructions": "Add your education and certifications here.",
-  "sectionTitle": "Education & Certifications",
-  "certificationsTitle": "Certifications",
+  "_instructions": "Add your education here.",
+  "sectionTitle": "Education",
   "education": [
     {
-      "degree": "Master of Science",
-      "school": "Northwest Missouri State University, MO, USA",
-      "institution": "Northwest Missouri State University, MO, USA",
+      "degree": "Master of Science in Applied Computer Science",
+      "school": "Northwest Missouri State University",
+      "institution": "Northwest Missouri State University",
       "period": "",
-      "details": "",
-      "description": ""
+      "details": "MO, USA",
+      "description": "Graduate studies in Applied Computer Science with focus on data engineering and software development."
     },
     {
-      "degree": "Bachelor of Technology",
-      "school": "Audisankara College of Engineering and Technology, India",
-      "institution": "Audisankara College of Engineering and Technology, India",
+      "degree": "Bachelor of Technology in Electronics and Communication Engineering",
+      "school": "Audisankara College of Engineering and Technology",
+      "institution": "Audisankara College of Engineering and Technology",
       "period": "",
-      "details": "",
-      "description": ""
+      "details": "India",
+      "description": "Undergraduate degree in Electronics and Communication Engineering."
     }
-  ],
-  "certifications": []
+  ]
 }

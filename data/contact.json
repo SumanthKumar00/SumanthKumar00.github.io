@@ -71,5 +71,18 @@
       }
     ]
   },
-  "socialMedia": []
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/sumanthkumar",
+      "icon": "fab fa-linkedin",
+      "color": "#0077B5"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/SumanthKumar00",
+      "icon": "fab fa-github",
+      "color": "#333333"
+    }
+  ]
 }

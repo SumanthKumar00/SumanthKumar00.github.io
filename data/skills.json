@@ -13,58 +13,89 @@
       ]
     },
     {
-      "category": "Tools & Platforms",
-      "icon": "fas fa-wrench",
+      "category": "Big Data & Processing",
+      "icon": "fas fa-database",
       "color": "#4ECDC4",
       "skills": [
         "Hadoop",
         "MapReduce",
         "HDFS",
         "Hive",
-        "NIFI",
+        "Apache NiFi",
         "Apache Kafka",
         "Apache Spark",
-        "PySpark",
-        "Microsoft Azure (Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Storage, Azure Blob Storage, Azure SQL Database, Databricks, Microsoft Azure SQL Managed Instance)",
-        "AWS (AWS Glue, Amazon Redshift, Amazon S3 & Lake Formation, Amazon RDS/Aurora, EMR, Amazon Athena, Amazon QuickSight)",
-        "Microsoft Fabric",
+        "PySpark"
+      ]
+    },
+    {
+      "category": "Cloud Technologies",
+      "icon": "fas fa-cloud",
+      "color": "#667eea",
+      "skills": [
+        "Azure Data Factory",
+        "Azure Synapse Analytics",
+        "Azure Data Lake Storage",
+        "Azure Blob Storage",
+        "Azure SQL Database",
+        "Azure Databricks",
+        "AWS Glue",
+        "Amazon Redshift",
+        "Amazon S3 & Lake Formation",
+        "Amazon RDS/Aurora",
+        "Amazon EMR",
+        "Amazon Athena",
+        "Amazon QuickSight",
+        "Microsoft Fabric"
+      ]
+    },
+    {
+      "category": "Databases",
+      "icon": "fas fa-server",
+      "color": "#FFE66D",
+      "skills": [
         "MySQL",
         "MongoDB",
         "PostgreSQL",
         "SQL Server",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "SciPy",
-        "Seaborn",
-        "Scikit-Learn",
-        "Tableau",
-        "Power BI",
-        "Advanced Excel",
-        "Statistics",
-        "Visual Studio Code"
+        "Snowflake"
       ]
     },
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-laptop-code",
-      "color": "#FFE66D",
+      "category": "Data Visualization",
+      "icon": "fas fa-chart-bar",
+      "color": "#A8DADC",
       "skills": [
-        "Data Mining",
-        "Data warehousing",
-        "Data transformation",
-        "KPI",
-        "Data Modelling (Star Schema, Snowflake Schema)",
+        "Tableau",
+        "Power BI",
+        "Advanced Excel",
+        "Matplotlib",
+        "Seaborn"
+      ]
+    },
+    {
+      "category": "Data Engineering",
+      "icon": "fas fa-cogs",
+      "color": "#B19CD9",
+      "skills": [
+        "ETL/ELT Design",
+        "Data Modeling (Star & Snowflake Schema)",
+        "Data Warehousing",
         "dbt",
-        "delta lake",
-        "ETL/ ELT Design",
-        "A/B Testing",
-        "Data Wrangling",
+        "Delta Lake",
+        "Data Quality Validation",
+        "Data Wrangling"
+      ]
+    },
+    {
+      "category": "Tools & Methodologies",
+      "icon": "fas fa-tools",
+      "color": "#FF8B94",
+      "skills": [
+        "Git & GitHub",
+        "CI/CD",
         "Jira",
-        "Git",
-        "GitHub",
-        "CI/CD Concepts",
-        "Prompting"
+        "Agile/Scrum",
+        "SDLC"
       ]
     }
   ]

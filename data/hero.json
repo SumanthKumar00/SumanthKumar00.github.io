@@ -3,23 +3,23 @@
   "greeting": "Hi, I'm",
   "name": "Sumanth Kumar Sivadi",
   "title": "DATA ENGINEER",
-  "summary": "DATA ENGINEER with 2+ years of experience specializing in Python, SQL, Java.",
-  "avatarUrl": "/avatar.png",
+  "summary": "DATA ENGINEER with 3+ years of experience specializing in Python, SQL, and cloud data platforms.",
+  "avatarUrl": "assets/images/profile.jpg",
   "tagline": "DATA ENGINEER",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "2+ Years Experience",
+      "text": "3+ Years Experience",
       "color": "#FF6B6B"
     },
     {
       "icon": "fas fa-project-diagram",
-      "text": "13+ Projects Completed",
+      "text": "4 Featured Projects",
       "color": "#4ECDC4"
     },
     {
       "icon": "fas fa-code",
-      "text": "Technical Expertise",
+      "text": "Data Engineering Expert",
       "color": "#FFE66D"
     }
   ],
@@ -40,6 +40,16 @@
     ]
   },
   "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/sumanthkumar",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/SumanthKumar00",
+      "icon": "fab fa-github"
+    },
     {
       "platform": "Email",
       "url": "mailto:sumanthkumar.sivadi@gmail.com",

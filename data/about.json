@@ -6,16 +6,38 @@
     "Data Engineer with 3+ years of experience in the healthcare and financial services domains, specializing in the design and development of scalable data pipelines, ETL/ELT processes, and cloud-based data platforms. Highly proficient in Python, SQL, and PySpark, with hands-on experience across Azure, AWS, Databricks, and Snowflake data warehousing solutions.",
     "Strong expertise in data modeling (Star and Snowflake schemas), data quality validation, and performance optimization to support analytics and reporting. Proven ability to thrive in Agile environments, delivering reliable, production-ready data solutions that enable dashboards, regulatory reporting, and actionable business insights."
   ],
+  "achievements": [
+    {
+      "icon": "fas fa-tachometer-alt",
+      "text": "Improved dashboard load times by 30%",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-check-circle",
+      "text": "Reduced data inconsistencies by 15%",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-bug",
+      "text": "Reduced processing errors by 20%",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-robot",
+      "text": "Reduced manual intervention by 35%",
+      "color": "#A8DADC"
+    }
+  ],
   "statistics": [
     {
       "icon": "fas fa-project-diagram",
-      "value": "13+",
-      "label": "Projects Completed",
+      "value": "4",
+      "label": "Featured Projects",
       "color": "#FF6B6B"
     },
     {
       "icon": "fas fa-briefcase",
-      "value": "2+",
+      "value": "3+",
       "label": "Years Experience",
       "color": "#4ECDC4"
     },
@@ -26,9 +48,9 @@
       "color": "#FFE66D"
     },
     {
-      "icon": "fas fa-award",
-      "value": "0+",
-      "label": "Certifications",
+      "icon": "fas fa-cloud",
+      "value": "2",
+      "label": "Cloud Platforms",
       "color": "#A8DADC"
     }
   ],

@@ -98,6 +98,15 @@ async function loadHero() {
         const response = await fetch('data/hero.json');
         const data = await response.json();
 
+        // Render avatar image
+        const heroContent = document.querySelector('.hero-content');
+        if (heroContent && data.avatarUrl) {
+            const avatarDiv = document.createElement('div');
+            avatarDiv.className = 'hero-avatar';
+            avatarDiv.innerHTML = `<img src="${data.avatarUrl}" alt="${data.name}">`;
+            heroContent.insertBefore(avatarDiv, heroContent.firstChild);
+        }
+
         // Set text content
         document.getElementById('hero-greeting').textContent = data.greeting;
         document.getElementById('hero-name').innerHTML = `${data.name.split(' ')[0]} <span>${data.name.split(' ').slice(1).join(' ')}</span>`;
@@ -161,12 +170,33 @@ async function loadAbout() {
         // Set section title
         document.getElementById('about-title').textContent = data.sectionTitle;
 
-        // Render paragraphs
+        // Render profile image and paragraphs
         const textContainer = document.getElementById('about-text');
         if (textContainer && data.paragraphs) {
-            textContainer.innerHTML = data.paragraphs.map(paragraph => `
+            const imageHtml = data.image ? `
+                <div class="about-image">
+                    <img src="${data.image}" alt="Profile Photo">
+                </div>
+            ` : '';
+
+            // Render achievements if available
+            const achievementsHtml = data.achievements ? `
+                <div class="achievements-grid">
+                    <h3 class="achievements-title">Key Achievements</h3>
+                    <div class="achievements-list">
+                        ${data.achievements.map(achievement => `
+                            <div class="achievement-item">
+                                <i class="${achievement.icon}" style="color: ${achievement.color}"></i>
+                                <span>${achievement.text}</span>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            ` : '';
+
+            textContainer.innerHTML = imageHtml + data.paragraphs.map(paragraph => `
                 <p>${paragraph}</p>
-            `).join('');
+            `).join('') + achievementsHtml;
         }
 
         // Render statistics
