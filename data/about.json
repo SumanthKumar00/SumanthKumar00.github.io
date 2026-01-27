@@ -1,0 +1,40 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "Data Engineer with 3+ years of experience in the healthcare and financial services domains, specializing in the design and development of scalable data pipelines, ETL/ELT processes, and cloud-based data platforms. Highly proficient in Python, SQL, and PySpark, with hands-on experience across Azure, AWS, Databricks, and Snowflake data warehousing solutions.",
+    "Strong expertise in data modeling (Star and Snowflake schemas), data quality validation, and performance optimization to support analytics and reporting. Proven ability to thrive in Agile environments, delivering reliable, production-ready data solutions that enable dashboards, regulatory reporting, and actionable business insights."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "13+",
+      "label": "Projects Completed",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-briefcase",
+      "value": "2+",
+      "label": "Years Experience",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "44+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-award",
+      "value": "0+",
+      "label": "Certifications",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

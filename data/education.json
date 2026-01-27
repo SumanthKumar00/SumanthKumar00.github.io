@@ -1,0 +1,24 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "school": "Northwest Missouri State University, MO, USA",
+      "institution": "Northwest Missouri State University, MO, USA",
+      "period": "",
+      "details": "",
+      "description": ""
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "school": "Audisankara College of Engineering and Technology, India",
+      "institution": "Audisankara College of Engineering and Technology, India",
+      "period": "",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": []
+}

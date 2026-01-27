@@ -1,0 +1,71 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Python",
+        "SQL",
+        "Java"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#4ECDC4",
+      "skills": [
+        "Hadoop",
+        "MapReduce",
+        "HDFS",
+        "Hive",
+        "NIFI",
+        "Apache Kafka",
+        "Apache Spark",
+        "PySpark",
+        "Microsoft Azure (Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Storage, Azure Blob Storage, Azure SQL Database, Databricks, Microsoft Azure SQL Managed Instance)",
+        "AWS (AWS Glue, Amazon Redshift, Amazon S3 & Lake Formation, Amazon RDS/Aurora, EMR, Amazon Athena, Amazon QuickSight)",
+        "Microsoft Fabric",
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "SQL Server",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "SciPy",
+        "Seaborn",
+        "Scikit-Learn",
+        "Tableau",
+        "Power BI",
+        "Advanced Excel",
+        "Statistics",
+        "Visual Studio Code"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#FFE66D",
+      "skills": [
+        "Data Mining",
+        "Data warehousing",
+        "Data transformation",
+        "KPI",
+        "Data Modelling (Star Schema, Snowflake Schema)",
+        "dbt",
+        "delta lake",
+        "ETL/ ELT Design",
+        "A/B Testing",
+        "Data Wrangling",
+        "Jira",
+        "Git",
+        "GitHub",
+        "CI/CD Concepts",
+        "Prompting"
+      ]
+    }
+  ]
+}

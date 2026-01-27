@@ -1,0 +1,329 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "flavormetrics-restaurant-analytics",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "TypeScript",
+        "Python",
+        "Dockerfile",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
+      "demo": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
+        "demo": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
+        "live": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
+      "demo": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
+        "demo": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
+        "live": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "healthcare-analytics",
+      "description": "Hands-on learning experience with modern frameworks",
+      "longDescription": "Hands-on learning experience with modern frameworks",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/healthcare-analytics",
+      "demo": "https://github.com/SumanthKumar00/healthcare-analytics",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/healthcare-analytics",
+        "demo": "https://github.com/SumanthKumar00/healthcare-analytics",
+        "live": "https://github.com/SumanthKumar00/healthcare-analytics"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Pattern_Milestone_05",
+      "description": "DogsManagementSystem",
+      "longDescription": "DogsManagementSystem",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "HTML",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/Pattern_Milestone_05",
+      "demo": "https://github.com/SumanthKumar00/Pattern_Milestone_05",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/Pattern_Milestone_05",
+        "demo": "https://github.com/SumanthKumar00/Pattern_Milestone_05",
+        "live": "https://github.com/SumanthKumar00/Pattern_Milestone_05"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "DogsManagementSystem",
+      "description": "DogsManagementSystem",
+      "longDescription": "DogsManagementSystem",
+      "category": "Data Science",
+      "technologies": [
+        "HTML",
+        "Java",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/DogsManagementSystem",
+      "demo": "https://github.com/SumanthKumar00/DogsManagementSystem",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/DogsManagementSystem",
+        "demo": "https://github.com/SumanthKumar00/DogsManagementSystem",
+        "live": "https://github.com/SumanthKumar00/DogsManagementSystem"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "stock-analysis",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/stock-analysis",
+      "demo": "https://github.com/SumanthKumar00/stock-analysis",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/stock-analysis",
+        "demo": "https://github.com/SumanthKumar00/stock-analysis",
+        "live": "https://github.com/SumanthKumar00/stock-analysis"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "firstrepo",
+      "description": "My first repo",
+      "longDescription": "My first repo",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/firstrepo",
+      "demo": "https://github.com/SumanthKumar00/firstrepo",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/firstrepo",
+        "demo": "https://github.com/SumanthKumar00/firstrepo",
+        "live": "https://github.com/SumanthKumar00/firstrepo"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "s23db94sivadi",
+      "description": "GitHub repository: s23db94sivadi",
+      "longDescription": "GitHub repository: s23db94sivadi",
+      "category": "Software Development",
+      "technologies": [
+        "JavaScript",
+        "Pug",
+        "CSS"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/s23db94sivadi",
+      "demo": "https://github.com/SumanthKumar00/s23db94sivadi",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/s23db94sivadi",
+        "demo": "https://github.com/SumanthKumar00/s23db94sivadi",
+        "live": "https://github.com/SumanthKumar00/s23db94sivadi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "f23wb94sivadi",
+      "description": "GitHub repository: f23wb94sivadi",
+      "longDescription": "GitHub repository: f23wb94sivadi",
+      "category": "Software Development",
+      "technologies": [
+        "JavaScript",
+        "Pug",
+        "CSS"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/f23wb94sivadi",
+      "demo": "https://github.com/SumanthKumar00/f23wb94sivadi",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/f23wb94sivadi",
+        "demo": "https://github.com/SumanthKumar00/f23wb94sivadi",
+        "live": "https://github.com/SumanthKumar00/f23wb94sivadi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "f23wa94sivadi",
+      "description": "GitHub repository: f23wa94sivadi",
+      "longDescription": "GitHub repository: f23wa94sivadi",
+      "category": "Software Development",
+      "technologies": [
+        "JavaScript",
+        "Pug",
+        "CSS"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/f23wa94sivadi",
+      "demo": "https://github.com/SumanthKumar00/f23wa94sivadi",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/f23wa94sivadi",
+        "demo": "https://github.com/SumanthKumar00/f23wa94sivadi",
+        "live": "https://github.com/SumanthKumar00/f23wa94sivadi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "XProject",
+      "description": "GitHub repository: XProject",
+      "longDescription": "GitHub repository: XProject",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/XProject",
+      "demo": "https://github.com/SumanthKumar00/XProject",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/XProject",
+        "demo": "https://github.com/SumanthKumar00/XProject",
+        "live": "https://github.com/SumanthKumar00/XProject"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "iOS-Assignments",
+      "description": "GitHub repository: iOS-Assignments",
+      "longDescription": "GitHub repository: iOS-Assignments",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/iOS-Assignments",
+      "demo": "https://github.com/SumanthKumar00/iOS-Assignments",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/iOS-Assignments",
+        "demo": "https://github.com/SumanthKumar00/iOS-Assignments",
+        "live": "https://github.com/SumanthKumar00/iOS-Assignments"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "my2-sivadi",
+      "description": "GitHub repository: my2-sivadi",
+      "longDescription": "GitHub repository: my2-sivadi",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/my2-sivadi",
+      "demo": "https://github.com/SumanthKumar00/my2-sivadi",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/my2-sivadi",
+        "demo": "https://github.com/SumanthKumar00/my2-sivadi",
+        "live": "https://github.com/SumanthKumar00/my2-sivadi"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}

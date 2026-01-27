@@ -1,0 +1,26 @@
+{
+  "_instructions": "Site-wide configuration and meta tags.",
+  "title": "Sumanth Kumar Sivadi | DATA ENGINEER",
+  "description": "Sumanth Kumar Sivadi - DATA ENGINEER | Portfolio",
+  "keywords": "DATA ENGINEER, Portfolio, Sumanth Kumar Sivadi",
+  "author": "Sumanth Kumar Sivadi",
+  "siteName": "Sumanth Kumar Sivadi",
+  "siteTitle": "Sumanth Kumar Sivadi | DATA ENGINEER",
+  "meta": {
+    "title": "Sumanth Kumar Sivadi | DATA ENGINEER",
+    "description": "Sumanth Kumar Sivadi - DATA ENGINEER | Portfolio",
+    "author": "Sumanth Kumar Sivadi",
+    "keywords": "DATA ENGINEER, Portfolio, Sumanth Kumar Sivadi"
+  },
+  "branding": {
+    "name": "Sumanth Kumar Sivadi",
+    "tagline": "DATA ENGINEER",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}
