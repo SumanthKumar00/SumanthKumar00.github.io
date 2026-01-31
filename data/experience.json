@@ -7,14 +7,12 @@
       "company": "WellStar Health System | GA",
       "period": "Aug 2024 - Current",
       "location": "",
-      "description": "Developed and maintained Python- and SQL-based ETL workflows to process high-volume EHR, claims, and patient encounter data, implementing data quality checks, schema evolution handling, and partitioning strategies for large healthcare datasets.\nAssisted in building scalable data ingestion pipelines using Apache Spark (PySpark) and Azure Data Factory, automating ingestion from EHR systems, clinical applications, and downstream healthcare systems, reducing manual intervention and improving pipeline reliability.\nContributed to data warehouse modeling in Snowflake and Azure Synapse using Star and fact-dimension schemas, optimizing query performance for clinical operations, quality metrics, and financial reporting dashboards.\nOptimized Power BI report performance by reducing model complexity, tuning relationships, and leveraging aggregations, improving clinical and operational dashboard load times by 30%.\nLeveraged MapReduce for batch processing of raw healthcare logs and clinical event data, transforming semi-structured data into structured datasets for downstream analytics.\nImplemented data quality validation and reconciliation logic in Azure Databricks to detect duplicate, missing, or inconsistent patient, encounter, and claims records, reducing data inconsistencies by 15%.",
+      "description": "Building Python/SQL ETL workflows and scalable data pipelines using PySpark and Azure Data Factory for high-volume healthcare data processing. Designing data warehouse models in Snowflake and Azure Synapse, optimizing Power BI dashboards (30% faster), and implementing data quality validation in Databricks (15% fewer inconsistencies).",
       "responsibilities": [
-        "Developed and maintained Python- and SQL-based ETL workflows to process high-volume EHR, claims, and patient encounter data, implementing data quality checks, schema evolution handling, and partitioning strategies for large healthcare datasets",
-        "Assisted in building scalable data ingestion pipelines using Apache Spark (PySpark) and Azure Data Factory, automating ingestion from EHR systems, clinical applications, and downstream healthcare systems, reducing manual intervention and improving pipeline reliability",
-        "Contributed to data warehouse modeling in Snowflake and Azure Synapse using Star and fact-dimension schemas, optimizing query performance for clinical operations, quality metrics, and financial reporting dashboards",
-        "Optimized Power BI report performance by reducing model complexity, tuning relationships, and leveraging aggregations, improving clinical and operational dashboard load times by 30%",
-        "Leveraged MapReduce for batch processing of raw healthcare logs and clinical event data, transforming semi-structured data into structured datasets for downstream analytics",
-        "Implemented data quality validation and reconciliation logic in Azure Databricks to detect duplicate, missing, or inconsistent patient, encounter, and claims records, reducing data inconsistencies by 15%"
+        "Built Python/SQL ETL workflows processing high-volume EHR, claims, and patient data with quality checks and partitioning strategies",
+        "Developed scalable data pipelines using PySpark and Azure Data Factory, automating ingestion from EHR systems and clinical applications",
+        "Designed data warehouse models in Snowflake and Azure Synapse using Star schemas for clinical and financial reporting",
+        "Improved Power BI dashboard performance by 30% and reduced data inconsistencies by 15% via Databricks validation logic"
       ]
     },
     {
@@ -22,16 +20,13 @@
       "company": "Cognizant | India",
       "period": "Dec 2021 - Aug 2023",
       "location": "",
-      "description": "Developed and optimized Tableau dashboards to visualize payment authorizations, settlements, fraud alerts, and regulatory compliance metrics, improving report load times.\nImplemented robust data quality validations, schema evolution handling, and partitioning strategies, reducing processing errors by 20% and ensuring reliable downstream analytics.\nBuilt scalable data ingestion workflows using PySpark and AWS Glue, automating batch and near real-time data collection from payment gateways, core banking systems, and downstream reporting platforms, reducing manual intervention by 35%.\nDesigned and implemented MongoDB collections to store semi-structured transaction metadata, customer profiles, and audit logs, enabling flexible schema evolution without impacting core ETL pipelines.\nProcessed high-volume banking and payment transaction logs using Hadoop HDFS, enabling reliable storage and batch processing for millions of daily records.\nMonitored and tuned Apache NiFi pipelines using Provenance, metrics, and alerts, proactively identifying bottlenecks and preventing delays in high-volume transaction processing.\nEnsured secure handling of sensitive financial data in Python workflows using encryption libraries and secure credential management, complying with internal governance standards.\nConfigured automated notifications and alerting within CI/CD pipelines to notify stakeholders of build failures or errors in real time.",
+      "description": "Built scalable data pipelines using PySpark and AWS Glue for payment gateways and banking systems, reducing manual intervention by 35%. Developed Tableau dashboards for compliance metrics, implemented data quality validations (20% fewer errors), and processed high-volume transactions using Hadoop HDFS.",
       "responsibilities": [
-        "Developed and optimized Tableau dashboards to visualize payment authorizations, settlements, fraud alerts, and regulatory compliance metrics, improving report load times",
-        "Implemented robust data quality validations, schema evolution handling, and partitioning strategies, reducing processing errors by 20% and ensuring reliable downstream analytics",
-        "Built scalable data ingestion workflows using PySpark and AWS Glue, automating batch and near real-time data collection from payment gateways, core banking systems, and downstream reporting platforms, reducing manual intervention by 35%",
-        "Designed and implemented MongoDB collections to store semi-structured transaction metadata, customer profiles, and audit logs, enabling flexible schema evolution without impacting core ETL pipelines",
-        "Processed high-volume banking and payment transaction logs using Hadoop HDFS, enabling reliable storage and batch processing for millions of daily records",
-        "Monitored and tuned Apache NiFi pipelines using Provenance, metrics, and alerts, proactively identifying bottlenecks and preventing delays in high-volume transaction processing",
-        "Ensured secure handling of sensitive financial data in Python workflows using encryption libraries and secure credential management, complying with internal governance standards",
-        "Configured automated notifications and alerting within CI/CD pipelines to notify stakeholders of build failures or errors in real time"
+        "Built scalable data pipelines using PySpark and AWS Glue for payment gateways and banking systems, reducing manual intervention by 35%",
+        "Developed Tableau dashboards for payment authorizations, fraud alerts, and compliance metrics with optimized load times",
+        "Implemented data quality validations and partitioning strategies, reducing processing errors by 20%",
+        "Designed MongoDB collections for semi-structured transaction data and audit logs with flexible schema evolution",
+        "Processed high-volume banking transactions using Hadoop HDFS; monitored Apache NiFi pipelines for bottleneck prevention"
       ]
     }
   ]
