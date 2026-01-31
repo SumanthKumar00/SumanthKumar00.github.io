@@ -3,6 +3,62 @@
   "sectionTitle": "Featured Work",
   "projects": [
     {
+      "title": "Azure Search OpenAI Demo",
+      "description": "AI-powered search solution integrating Azure Cognitive Search with OpenAI for intelligent document retrieval and Q&A",
+      "longDescription": "A comprehensive demonstration of combining Azure Cognitive Search with OpenAI capabilities to create an intelligent search and question-answering system. Features document indexing, semantic search, and AI-generated responses.",
+      "category": "Cloud & AI",
+      "technologies": [
+        "Azure",
+        "OpenAI",
+        "Python",
+        "Cognitive Search",
+        "REST APIs"
+      ],
+      "icon": "fas fa-cloud",
+      "color": "#0078D4",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/SumanthKumar00/azure-search-openai-demo",
+      "demo": "https://github.com/SumanthKumar00/azure-search-openai-demo",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/azure-search-openai-demo",
+        "demo": "https://github.com/SumanthKumar00/azure-search-openai-demo",
+        "live": "https://github.com/SumanthKumar00/azure-search-openai-demo"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "PySpark Data Engineering Project",
+      "description": "Scalable big data processing pipeline using PySpark for ETL operations and data transformations",
+      "longDescription": "A production-ready PySpark project demonstrating best practices for big data processing, including ETL pipelines, data quality checks, partitioning strategies, and performance optimization for large-scale data transformations.",
+      "category": "Data Engineering",
+      "technologies": [
+        "PySpark",
+        "Python",
+        "Apache Spark",
+        "SQL",
+        "Big Data"
+      ],
+      "icon": "fas fa-database",
+      "color": "#E25A1C",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/SumanthKumar00/pyspark-example-project",
+      "demo": "https://github.com/SumanthKumar00/pyspark-example-project",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/pyspark-example-project",
+        "demo": "https://github.com/SumanthKumar00/pyspark-example-project",
+        "live": "https://github.com/SumanthKumar00/pyspark-example-project"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
       "title": "FlavorMetrics Restaurant Analytics",
       "description": "End-to-end restaurant analytics platform with data pipelines for menu optimization, customer insights, and operational metrics",
       "longDescription": "A comprehensive data engineering solution for restaurant analytics featuring automated ETL pipelines, real-time data processing, and interactive dashboards for menu performance tracking, customer behavior analysis, and operational efficiency metrics.",
