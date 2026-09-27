@@ -3,47 +3,47 @@
   "sectionTitle": "About Me",
   "image": "assets/images/profile.jpg",
   "paragraphs": [
-    "Data Engineer with 3+ years of experience in the healthcare and financial services domains, specializing in the design and development of scalable data pipelines, ETL/ELT processes, and cloud-based data platforms. Highly proficient in Python, SQL, and PySpark, with hands-on experience across Azure, AWS, Databricks, and Snowflake data warehousing solutions.",
-    "Strong expertise in data modeling (Star and Snowflake schemas), data quality validation, and performance optimization to support analytics and reporting. Proven ability to thrive in Agile environments, delivering reliable, production-ready data solutions that enable dashboards, regulatory reporting, and actionable business insights."
+    "AI Engineer with 4+ years of experience delivering end-to-end AI/ML solutions across the healthcare and financial services domains, specializing in predictive models, fraud and credit-risk solutions, clinical decision-support systems, and GenAI/RAG-based knowledge retrieval. Highly proficient in Python, SQL, and PySpark, with hands-on experience across AWS, Azure, Databricks, and Snowflake.",
+    "Strong expertise in building and validating ML, deep learning, NLP, and transformer models, engineering agentic AI and RAG workflows, and deploying production-grade AI systems with MLOps practices for versioning, monitoring, and automated retraining. Proven ability to thrive in Agile environments, delivering reliable, production-ready AI solutions that improve model accuracy, processing efficiency, and operational decision-making."
   ],
   "achievements": [
     {
-      "icon": "fas fa-tachometer-alt",
-      "text": "Improved dashboard load times by 30%",
+      "icon": "fas fa-brain",
+      "text": "Improved model response accuracy by 25%",
       "color": "#FF6B6B"
     },
     {
-      "icon": "fas fa-check-circle",
-      "text": "Reduced data inconsistencies by 15%",
+      "icon": "fas fa-tachometer-alt",
+      "text": "Reduced data processing time by 47%",
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-bug",
-      "text": "Reduced processing errors by 20%",
+      "icon": "fas fa-shield-alt",
+      "text": "Improved fraud detection accuracy by 18%",
       "color": "#FFE66D"
     },
     {
       "icon": "fas fa-robot",
-      "text": "Reduced manual intervention by 35%",
+      "text": "Reduced prediction latency by 30%",
       "color": "#A8DADC"
     }
   ],
   "statistics": [
     {
       "icon": "fas fa-project-diagram",
-      "value": "4",
+      "value": "11+",
       "label": "Featured Projects",
       "color": "#FF6B6B"
     },
     {
       "icon": "fas fa-briefcase",
-      "value": "3+",
+      "value": "4+",
       "label": "Years Experience",
       "color": "#4ECDC4"
     },
     {
       "icon": "fas fa-code",
-      "value": "44+",
+      "value": "50+",
       "label": "Technologies",
       "color": "#FFE66D"
     },
