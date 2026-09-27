@@ -3,30 +3,31 @@
   "sectionTitle": "Professional Experience",
   "experiences": [
     {
-      "title": "Data Engineer",
-      "company": "WellStar Health System | GA",
-      "period": "Aug 2024 - Current",
+      "title": "AI Engineer",
+      "company": "Johnson & Johnson | USA",
+      "period": "Aug 2024 - Present",
       "location": "",
-      "description": "Building Python/SQL ETL workflows and scalable data pipelines using PySpark and Azure Data Factory for high-volume healthcare data processing. Designing data warehouse models in Snowflake and Azure Synapse, optimizing Power BI dashboards (30% faster), and implementing data quality validation in Databricks (15% fewer inconsistencies).",
+      "description": "Delivering AI/ML solutions for clinical decision support, disease-risk prediction, and patient outcome analysis. Re-engineering healthcare data pipelines with Python, PySpark, and SQL (35% faster processing), building ML/deep learning and NLP/transformer models (25% higher model accuracy), and implementing RAG and AI-agent workflows for clinical knowledge retrieval and automation.",
       "responsibilities": [
-        "Built Python/SQL ETL workflows processing high-volume EHR, claims, and patient data with quality checks and partitioning strategies",
-        "Developed scalable data pipelines using PySpark and Azure Data Factory, automating ingestion from EHR systems and clinical applications",
-        "Designed data warehouse models in Snowflake and Azure Synapse using Star schemas for clinical and financial reporting",
-        "Improved Power BI dashboard performance by 30% and reduced data inconsistencies by 15% via Databricks validation logic"
+        "Translated clinical and business requirements into AI/ML use cases for clinical decision support, disease-risk prediction, and patient outcome analysis, working with healthcare stakeholders in Agile/Scrum teams",
+        "Re-engineered large-scale healthcare data pipelines using Python, PySpark, and SQL, reducing data processing time by 35% and improving data availability for downstream analytics",
+        "Built and evaluated ML and deep learning models for disease-risk prediction and clinical intelligence, improving model response accuracy by 25%",
+        "Applied NLP and transformer-based models to extract insights from unstructured clinical documents, and engineered RAG-based retrieval workflows and AI-agent automation to reduce manual intervention in clinical support activities",
+        "Deployed AI solutions as scalable production services and built dashboards for real-time model performance and data-quality monitoring, supporting drift detection, explainability, and responsible AI governance"
       ]
     },
     {
-      "title": "Data Engineer",
-      "company": "Cognizant | India",
-      "period": "Dec 2021 - Aug 2023",
+      "title": "Machine Learning Engineer",
+      "company": "Infosys | India",
+      "period": "Jan 2021 - Aug 2023",
       "location": "",
-      "description": "Built scalable data pipelines using PySpark and AWS Glue for payment gateways and banking systems, reducing manual intervention by 35%. Developed Tableau dashboards for compliance metrics, implemented data quality validations (20% fewer errors), and processed high-volume transactions using Hadoop HDFS.",
+      "description": "Built ML solutions for fraud prevention, credit risk, and financial forecasting, cutting data processing time by 47% through optimized Python/PySpark/SQL pipelines. Engineered fraud-detection features (18% accuracy gain), deployed models to production on AWS, established MLOps practices, and reduced prediction latency by 30% while maintaining reliability.",
       "responsibilities": [
-        "Built scalable data pipelines using PySpark and AWS Glue for payment gateways and banking systems, reducing manual intervention by 35%",
-        "Developed Tableau dashboards for payment authorizations, fraud alerts, and compliance metrics with optimized load times",
-        "Implemented data quality validations and partitioning strategies, reducing processing errors by 20%",
-        "Designed MongoDB collections for semi-structured transaction data and audit logs with flexible schema evolution",
-        "Processed high-volume banking transactions using Hadoop HDFS; monitored Apache NiFi pipelines for bottleneck prevention"
+        "Translated business requirements into ML solutions for fraud prevention, credit risk assessment, customer intelligence, and financial forecasting",
+        "Integrated transaction, customer, account, and payment data into reliable datasets, reducing data processing time by 47% through optimized Python, PySpark, and SQL pipelines",
+        "Engineered behavioral and transaction-based features that improved fraud detection accuracy by 18%, and designed real-time/batch scoring workflows to prioritize higher-risk cases",
+        "Deployed approved models to production on AWS, establishing secure, low-latency prediction services, and set up MLOps practices for model versioning, experiment tracking, and automated deployments",
+        "Monitored production models for drift and performance changes, reducing prediction latency by 30% while maintaining reliability, and built Tableau dashboards and SQL reporting for fraud trends and model performance"
       ]
     }
   ]
