@@ -1,20 +1,20 @@
 {
   "_instructions": "Site-wide configuration and meta tags.",
-  "title": "Sumanth Kumar Sivadi | DATA ENGINEER",
-  "description": "Sumanth Kumar Sivadi - DATA ENGINEER | Portfolio",
-  "keywords": "DATA ENGINEER, Portfolio, Sumanth Kumar Sivadi",
+  "title": "Sumanth Kumar Sivadi | AI ENGINEER",
+  "description": "Sumanth Kumar Sivadi - AI ENGINEER | Portfolio",
+  "keywords": "AI ENGINEER, Machine Learning, GenAI, RAG, Portfolio, Sumanth Kumar Sivadi",
   "author": "Sumanth Kumar Sivadi",
   "siteName": "Sumanth Kumar Sivadi",
-  "siteTitle": "Sumanth Kumar Sivadi | DATA ENGINEER",
+  "siteTitle": "Sumanth Kumar Sivadi | AI ENGINEER",
   "meta": {
-    "title": "Sumanth Kumar Sivadi | DATA ENGINEER",
-    "description": "Sumanth Kumar Sivadi - DATA ENGINEER | Portfolio",
+    "title": "Sumanth Kumar Sivadi | AI ENGINEER",
+    "description": "Sumanth Kumar Sivadi - AI ENGINEER | Portfolio",
     "author": "Sumanth Kumar Sivadi",
-    "keywords": "DATA ENGINEER, Portfolio, Sumanth Kumar Sivadi"
+    "keywords": "AI ENGINEER, Machine Learning, GenAI, RAG, Portfolio, Sumanth Kumar Sivadi"
   },
   "branding": {
     "name": "Sumanth Kumar Sivadi",
-    "tagline": "DATA ENGINEER",
+    "tagline": "AI ENGINEER",
     "logo": "/logo.png"
   },
   "settings": {
