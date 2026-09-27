@@ -1,18 +1,18 @@
 {
   "profile": {
     "name": "Sumanth Kumar Sivadi",
-    "title": "DATA ENGINEER",
-    "bio": "Data Engineer with 3+ years of experience in the healthcare and financial services domains, specializing in the design and development of scalable data pipelines, ETL/ELT processes, and cloud-based data platforms. Highly proficient in Python, SQL, and PySpark, with hands-on experience across Azure, AWS, Databricks, and Snowflake data warehousing solutions. Strong expertise in data modeling (Star and Snowflake schemas), data quality validation, and performance optimization to support analytics and reporting. Proven ability to thrive in Agile environments, delivering reliable, production-ready data solutions that enable dashboards, regulatory reporting, and actionable business insights."
+    "title": "AI ENGINEER",
+    "bio": "AI Engineer with 4+ years of experience delivering end-to-end AI/ML solutions across the healthcare and financial services domains, specializing in predictive models, fraud and credit-risk solutions, clinical decision-support systems, and patient outcome analytics. Highly proficient in Python, SQL, and PySpark, with hands-on experience across AWS, Azure, Databricks, and Snowflake. Strong expertise in building and validating ML, deep learning, NLP, and transformer models, engineering GenAI/RAG and agentic AI workflows, and deploying production-grade AI systems with MLOps practices for versioning, monitoring, and automated retraining. Proven ability to thrive in Agile environments, delivering reliable, production-ready AI solutions that improve model accuracy, processing efficiency, and operational decision-making."
   },
   "contact": {
     "email": "sivadisumanthkumar@gmail.com",
-    "phone": "(470) 252-6919",
+    "phone": "(408) 758-1287",
     "githubUsername": "SumanthKumar00",
-    "linkedin": "https://www.linkedin.com/in/sumanth-kumar-s-2a0619236/"
+    "linkedin": "https://www.linkedin.com/in/sumanth-sivadi/"
   },
   "siteConfig": {
     "domain": "",
     "title": "Sumanth Kumar Sivadi - Portfolio",
-    "description": "Data Engineer with 3+ years of experience in the healthcare and financial services domains, specializing in the design and development of scalable data pipelines, ETL/ELT processes, and cloud-based data platforms. Highly proficient in Python, SQL, and PySpark, with hands-on experience across Azure, AWS, Databricks, and Snowflake data warehousing solutions. Strong expertise in data modeling (Star and Snowflake schemas), data quality validation, and performance optimization to support analytics and reporting. Proven ability to thrive in Agile environments, delivering reliable, production-ready data solutions that enable dashboards, regulatory reporting, and actionable business insights."
+    "description": "AI Engineer with 4+ years of experience delivering end-to-end AI/ML solutions across the healthcare and financial services domains, specializing in predictive models, fraud and credit-risk solutions, clinical decision-support systems, and patient outcome analytics. Highly proficient in Python, SQL, and PySpark, with hands-on experience across AWS, Azure, Databricks, and Snowflake. Strong expertise in building and validating ML, deep learning, NLP, and transformer models, engineering GenAI/RAG and agentic AI workflows, and deploying production-grade AI systems with MLOps practices for versioning, monitoring, and automated retraining. Proven ability to thrivein Agile environments, delivering reliable, production-ready AI solutions that improve model accuracy, processing efficiency, and operational decision-making."
   }
 }
