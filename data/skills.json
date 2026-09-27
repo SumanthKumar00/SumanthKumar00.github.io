@@ -6,96 +6,177 @@
       "category": "Programming Languages",
       "icon": "fas fa-code",
       "color": "#FF6B6B",
-      "skills": [
-        "Python",
-        "SQL",
-        "Java"
-      ]
+      "skills": ["Python", "SQL", "R", "Scala", "Bash/Shell Scripting"]
     },
     {
-      "category": "Big Data & Processing",
-      "icon": "fas fa-database",
+      "category": "AI/ML",
+      "icon": "fas fa-brain",
       "color": "#4ECDC4",
       "skills": [
-        "Hadoop",
-        "MapReduce",
-        "HDFS",
-        "Hive",
-        "Apache NiFi",
-        "Apache Kafka",
-        "Apache Spark",
-        "PySpark"
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Reinforcement Learning",
+        "Transfer Learning",
+        "Classification",
+        "Regression",
+        "Clustering",
+        "Recommendation Systems",
+        "Time Series Forecasting",
+        "Anomaly Detection",
+        "Feature Selection",
+        "Hyperparameter Tuning"
       ]
     },
     {
-      "category": "Cloud Technologies",
-      "icon": "fas fa-cloud",
+      "category": "ML Frameworks",
+      "icon": "fas fa-layer-group",
       "color": "#667eea",
       "skills": [
-        "Azure Data Factory",
-        "Azure Synapse Analytics",
-        "Azure Data Lake Storage",
-        "Azure Blob Storage",
-        "Azure SQL Database",
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "Hugging Face Transformers",
+        "OpenCV",
+        "spaCy",
+        "NLTK"
+      ]
+    },
+    {
+      "category": "GenAI / LLMs",
+      "icon": "fas fa-robot",
+      "color": "#FFE66D",
+      "skills": [
+        "LLMs",
+        "RAG",
+        "Fine-Tuning",
+        "Prompt Engineering",
+        "AI Agents",
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "OpenAI API",
+        "Llama Models",
+        "LangChain",
+        "LlamaIndex",
+        "LangGraph",
+        "Embeddings",
+        "Semantic Search"
+      ]
+    },
+    {
+      "category": "Data Engineering",
+      "icon": "fas fa-database",
+      "color": "#A8DADC",
+      "skills": [
+        "Pandas",
+        "NumPy",
+        "PySpark",
+        "Apache Spark",
+        "Apache Kafka",
+        "Apache Airflow",
+        "ETL/ELT",
+        "Data Modeling",
+        "Data Cleaning",
+        "Data Validation",
+        "Feature Engineering",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "category": "Cloud",
+      "icon": "fas fa-cloud",
+      "color": "#B19CD9",
+      "skills": [
+        "AWS",
+        "Microsoft Azure",
+        "Amazon SageMaker",
+        "Azure Machine Learning",
+        "Azure OpenAI",
         "Azure Databricks",
-        "AWS Glue",
-        "Amazon Redshift",
-        "Amazon S3 & Lake Formation",
-        "Amazon RDS/Aurora",
-        "Amazon EMR",
-        "Amazon Athena",
-        "Amazon QuickSight",
-        "Microsoft Fabric"
+        "Azure Data Factory",
+        "Lambda",
+        "EC2",
+        "S3",
+        "Glue",
+        "Redshift"
+      ]
+    },
+    {
+      "category": "MLOps / Deployment",
+      "icon": "fas fa-cogs",
+      "color": "#FF8B94",
+      "skills": [
+        "MLflow",
+        "Kubeflow",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "GitHub Actions",
+        "Jenkins",
+        "GitLab",
+        "Model Monitoring",
+        "Experiment Tracking",
+        "Automated Retraining",
+        "FastAPI",
+        "Flask",
+        "REST APIs",
+        "Microservices"
       ]
     },
     {
       "category": "Databases",
       "icon": "fas fa-server",
-      "color": "#FFE66D",
+      "color": "#0078D4",
       "skills": [
-        "MySQL",
-        "MongoDB",
         "PostgreSQL",
+        "MySQL",
         "SQL Server",
-        "Snowflake"
+        "Oracle",
+        "MongoDB",
+        "Snowflake",
+        "Redis",
+        "Elasticsearch",
+        "Pinecone",
+        "ChromaDB",
+        "FAISS"
       ]
     },
     {
-      "category": "Data Visualization",
-      "icon": "fas fa-chart-bar",
-      "color": "#A8DADC",
-      "skills": [
-        "Tableau",
-        "Power BI",
-        "Advanced Excel",
-        "Matplotlib",
-        "Seaborn"
-      ]
-    },
-    {
-      "category": "Data Engineering",
-      "icon": "fas fa-cogs",
-      "color": "#B19CD9",
-      "skills": [
-        "ETL/ELT Design",
-        "Data Modeling (Star & Snowflake Schema)",
-        "Data Warehousing",
-        "dbt",
-        "Delta Lake",
-        "Data Quality Validation",
-        "Data Wrangling"
-      ]
-    },
-    {
-      "category": "Tools & Methodologies",
+      "category": "Development / Agile",
       "icon": "fas fa-tools",
-      "color": "#FF8B94",
+      "color": "#4ECDC4",
       "skills": [
-        "Git & GitHub",
-        "CI/CD",
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Linux/Unix",
+        "Postman",
+        "Agile",
+        "Scrum",
         "Jira",
-        "Agile/Scrum",
-        "SDLC"
+        "Confluence",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Security / Governance",
+      "icon": "fas fa-shield-alt",
+      "color": "#FF6B6B",
+      "skills": [
+        "Data Privacy",
+        "Model Security",
+        "Bias Detection",
+        "Model Explainability",
+        "RBAC",
+        "HIPAA",
+        "GDPR",
+        "SOC 2",
+        "Secure AI Deployment",
+        "AI Governance"
       ]
     }
   ]
