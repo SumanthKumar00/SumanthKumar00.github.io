@@ -2,24 +2,24 @@
   "_instructions": "Hero section content.",
   "greeting": "Hi, I'm",
   "name": "Sumanth Kumar Sivadi",
-  "title": "DATA ENGINEER",
-  "summary": "DATA ENGINEER with 3+ years of experience specializing in Python, SQL, and cloud data platforms.",
+  "title": "AI ENGINEER",
+  "summary": "AI ENGINEER with 4+ years of experience delivering ML, deep learning, NLP, and GenAI/RAG solutions across healthcare and financial services.",
   "avatarUrl": "assets/images/profile.jpg",
-  "tagline": "DATA ENGINEER",
+  "tagline": "AI ENGINEER",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "3+ Years Experience",
+      "text": "4+ Years Experience",
       "color": "#FF6B6B"
     },
     {
       "icon": "fas fa-project-diagram",
-      "text": "6 Featured Projects",
+      "text": "11+ Featured Projects",
       "color": "#4ECDC4"
     },
     {
       "icon": "fas fa-code",
-      "text": "Data Engineering Expert",
+      "text": "GenAI & MLOps Expert",
       "color": "#FFE66D"
     }
   ],
@@ -42,7 +42,7 @@
   "socialLinks": [
     {
       "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/in/sumanth-kumar-s-2a0619236/",
+      "url": "https://www.linkedin.com/in/sumanth-sivadi/",
       "icon": "fab fa-linkedin"
     },
     {
