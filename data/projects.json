@@ -3,171 +3,168 @@
   "sectionTitle": "Featured Work",
   "projects": [
     {
-      "title": "Azure Search OpenAI Demo",
-      "description": "AI-powered search solution integrating Azure Cognitive Search with OpenAI for intelligent document retrieval and Q&A",
-      "longDescription": "A comprehensive demonstration of combining Azure Cognitive Search with OpenAI capabilities to create an intelligent search and question-answering system. Features document indexing, semantic search, and AI-generated responses.",
-      "category": "Cloud & AI",
-      "technologies": [
-        "Azure",
-        "OpenAI",
-        "Python",
-        "Cognitive Search",
-        "REST APIs"
-      ],
-      "icon": "fas fa-cloud",
+      "title": "Doclify",
+      "description": "AI-powered CLI tool that automatically generates professional README documentation by analyzing a codebase",
+      "longDescription": "Doclify analyzes a codebase and automatically generates professional README documentation using fast, open-source LLMs via the Groq API — turning a manual documentation chore into a single command.",
+      "category": "GenAI & Agentic Tools",
+      "technologies": ["Python", "Groq API", "LLMs", "CLI"],
+      "icon": "fas fa-file-alt",
       "color": "#0078D4",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&q=80&fit=crop",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&q=80&fit=crop",
       "featured": true,
-      "github": "https://github.com/SumanthKumar00/azure-search-openai-demo",
-      "demo": "https://github.com/SumanthKumar00/azure-search-openai-demo",
+      "github": "https://github.com/SumanthKumar00/Doclify",
       "links": {
-        "github": "https://github.com/SumanthKumar00/azure-search-openai-demo",
-        "demo": "https://github.com/SumanthKumar00/azure-search-openai-demo",
-        "live": "https://github.com/SumanthKumar00/azure-search-openai-demo"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
+        "github": "https://github.com/SumanthKumar00/Doclify"
       }
     },
     {
-      "title": "PySpark Data Engineering Project",
-      "description": "Scalable big data processing pipeline using PySpark for ETL operations and data transformations",
-      "longDescription": "A production-ready PySpark project demonstrating best practices for big data processing, including ETL pipelines, data quality checks, partitioning strategies, and performance optimization for large-scale data transformations.",
-      "category": "Data Engineering",
-      "technologies": [
-        "PySpark",
-        "Python",
-        "Apache Spark",
-        "SQL",
-        "Big Data"
-      ],
-      "icon": "fas fa-database",
-      "color": "#E25A1C",
+      "title": "Multi-Agentic-Blog-Generation",
+      "description": "Autonomous AI-powered blogging platform that generates, formats, and publishes technical articles",
+      "longDescription": "An autonomous blogging platform that generates, formats, and publishes high-quality technical articles using LangGraph multi-agent workflows and Groq LLMs, with automated deployment to a static website.",
+      "category": "GenAI & Agentic Systems",
+      "technologies": ["Python", "LangGraph", "Groq LLMs", "Multi-Agent Systems"],
+      "icon": "fas fa-blog",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/SumanthKumar00/Multi-Agentic-Blog-Generation",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/Multi-Agentic-Blog-Generation"
+      }
+    },
+    {
+      "title": "self-healing-rag",
+      "description": "A RAG pipeline that critiques and retries its own answers, evaluated on a real SEC 10-K filing",
+      "longDescription": "A retrieval-augmented generation pipeline that critiques its own answers and retries when confidence is low, built and evaluated end-to-end on a real SEC 10-K filing to test answer reliability on dense financial documents.",
+      "category": "GenAI & RAG",
+      "technologies": ["Python", "RAG", "LLMs", "Embeddings"],
+      "icon": "fas fa-sync-alt",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/SumanthKumar00/self-healing-rag",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/self-healing-rag"
+      }
+    },
+    {
+      "title": "resilient-llm-gateway",
+      "description": "A middleware layer for LLM calls with retry, automatic failover, and circuit breaker logic",
+      "longDescription": "A resilience layer for production LLM applications, sitting in front of LLM calls to handle retries, automatic provider failover, and circuit breaking so downstream apps stay reliable under API instability.",
+      "category": "GenAI Infrastructure",
+      "technologies": ["Python", "LLMs", "Middleware", "Reliability Engineering"],
+      "icon": "fas fa-shield-alt",
+      "color": "#FFE66D",
       "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&q=80&fit=crop",
       "featured": true,
-      "github": "https://github.com/SumanthKumar00/pyspark-example-project",
-      "demo": "https://github.com/SumanthKumar00/pyspark-example-project",
+      "github": "https://github.com/SumanthKumar00/resilient-llm-gateway",
       "links": {
-        "github": "https://github.com/SumanthKumar00/pyspark-example-project",
-        "demo": "https://github.com/SumanthKumar00/pyspark-example-project",
-        "live": "https://github.com/SumanthKumar00/pyspark-example-project"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
+        "github": "https://github.com/SumanthKumar00/resilient-llm-gateway"
       }
     },
     {
-      "title": "FlavorMetrics Restaurant Analytics",
-      "description": "End-to-end restaurant analytics platform with data pipelines for menu optimization, customer insights, and operational metrics",
-      "longDescription": "A comprehensive data engineering solution for restaurant analytics featuring automated ETL pipelines, real-time data processing, and interactive dashboards for menu performance tracking, customer behavior analysis, and operational efficiency metrics.",
-      "category": "Data Engineering",
-      "technologies": [
-        "Python",
-        "TypeScript",
-        "Docker",
-        "SQL",
-        "Data Pipelines"
-      ],
-      "icon": "fas fa-utensils",
-      "color": "#FF6B6B",
-      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&h=400&q=80&fit=crop",
-      "featured": true,
-      "github": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
-      "demo": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
-      "links": {
-        "github": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
-        "demo": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics",
-        "live": "https://github.com/SumanthKumar00/flavormetrics-restaurant-analytics"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
-      }
-    },
-    {
-      "title": "Sentiment Analysis Web App",
-      "description": "ML-powered sentiment analysis application using AWS SageMaker for model training and deployment",
-      "longDescription": "A machine learning web application that performs real-time sentiment analysis on text data. Built using AWS SageMaker for model training and deployment, with a Python backend and interactive frontend for visualizing sentiment predictions.",
-      "category": "Machine Learning",
-      "technologies": [
-        "Python",
-        "AWS SageMaker",
-        "Jupyter Notebook",
-        "Machine Learning",
-        "HTML"
-      ],
-      "icon": "fas fa-brain",
-      "color": "#4ECDC4",
-      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&q=80&fit=crop",
-      "featured": true,
-      "github": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
-      "demo": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
-      "links": {
-        "github": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
-        "demo": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker",
-        "live": "https://github.com/SumanthKumar00/sentiment-analysis-webapp-sagemaker"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
-      }
-    },
-    {
-      "title": "Healthcare Analytics Platform",
-      "description": "Healthcare data analytics solution for processing clinical data and generating actionable insights",
-      "longDescription": "A data engineering project focused on healthcare analytics, featuring ETL pipelines for processing clinical and patient data, data quality validation, and interactive dashboards for healthcare metrics and KPI tracking.",
-      "category": "Data Engineering",
-      "technologies": [
-        "Python",
-        "TypeScript",
-        "Docker",
-        "SQL",
-        "Data Analytics"
-      ],
+      "title": "Heart-Disease-Prediction",
+      "description": "End-to-end ML project predicting heart disease risk using clinical data, with a real-time Flask app",
+      "longDescription": "An end-to-end machine learning project that predicts heart disease risk using clinical data, featuring multiple models, experiment tracking, and a Flask-based web application for real-time predictions.",
+      "category": "Machine Learning & Healthcare AI",
+      "technologies": ["Python", "Jupyter Notebook", "Scikit-learn", "Flask"],
       "icon": "fas fa-heartbeat",
-      "color": "#FFE66D",
+      "color": "#A8DADC",
       "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&h=400&q=80&fit=crop",
       "featured": true,
-      "github": "https://github.com/SumanthKumar00/healthcare-analytics",
-      "demo": "https://github.com/SumanthKumar00/healthcare-analytics",
+      "github": "https://github.com/SumanthKumar00/Heart-Disease-Prediction",
       "links": {
-        "github": "https://github.com/SumanthKumar00/healthcare-analytics",
-        "demo": "https://github.com/SumanthKumar00/healthcare-analytics",
-        "live": "https://github.com/SumanthKumar00/healthcare-analytics"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
+        "github": "https://github.com/SumanthKumar00/Heart-Disease-Prediction"
       }
     },
     {
-      "title": "Stock Market Analysis",
-      "description": "Stock market data analysis pipeline for trend identification and portfolio analytics",
-      "longDescription": "A data analysis project for stock market insights, featuring data pipelines for collecting and processing market data, trend analysis algorithms, and visualization tools for portfolio performance tracking.",
-      "category": "Data Analytics",
-      "technologies": [
-        "Python",
-        "Pandas",
-        "NumPy",
-        "Data Visualization",
-        "Financial Analysis"
-      ],
+      "title": "Diamond-Price-Prediction",
+      "description": "End-to-end ML project predicting diamond prices using regression models, with MLflow tracking",
+      "longDescription": "An end-to-end machine learning project that predicts diamond prices using regression models, with experiment tracking via MLflow and a Flask-based web application for real-time predictions.",
+      "category": "Machine Learning",
+      "technologies": ["Python", "Jupyter Notebook", "MLflow", "Flask"],
+      "icon": "fas fa-gem",
+      "color": "#0078D4",
+      "image": "https://images.unsplash.com/photo-1610375461369-d613b564f4c5?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/SumanthKumar00/Diamond-Price-Prediction",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/Diamond-Price-Prediction"
+      }
+    },
+    {
+      "title": "VisionStack",
+      "description": "Business growth analytics platform processing millions of records with PySpark and Databricks",
+      "longDescription": "A scalable big data pipeline built with PySpark and Databricks, processing millions of customer and product records from CSV, JSON, and Parquet sources into a unified analytics model, with SQL ETL workflows generating KPIs for sales trends, product performance, and customer segmentation.",
+      "category": "Data Engineering & Analytics",
+      "technologies": ["Python", "PySpark", "Databricks", "SQL", "Apache Spark"],
       "icon": "fas fa-chart-line",
-      "color": "#A8DADC",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "https://github.com/kartikeya-datta/VisionStack",
+      "links": {
+        "github": "https://github.com/kartikeya-datta/VisionStack"
+      }
+    },
+    {
+      "title": "promo-segmentation-analytics",
+      "description": "Simulated customer segmentation and discount analytics using Python and Excel reporting",
+      "longDescription": "A customer segmentation and promotional discount analytics project, simulating customer behavior and reporting insights using Python, Matplotlib, and Excel-based reporting.",
+      "category": "Data Analytics",
+      "technologies": ["Python", "Pandas", "Matplotlib", "Excel"],
+      "icon": "fas fa-chart-pie",
+      "color": "#FF6B6B",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&q=80&fit=crop",
       "featured": true,
-      "github": "https://github.com/SumanthKumar00/stock-analysis",
-      "demo": "https://github.com/SumanthKumar00/stock-analysis",
+      "github": "https://github.com/SumanthKumar00/promo-segmentation-analytics",
       "links": {
-        "github": "https://github.com/SumanthKumar00/stock-analysis",
-        "demo": "https://github.com/SumanthKumar00/stock-analysis",
-        "live": "https://github.com/SumanthKumar00/stock-analysis"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
+        "github": "https://github.com/SumanthKumar00/promo-segmentation-analytics"
+      }
+    },
+    {
+      "title": "southstar-ai-copilot",
+      "description": "An AI copilot project built in Python",
+      "longDescription": "An AI copilot project exploring assistant-style AI workflows and tooling, built in Python.",
+      "category": "GenAI & Agentic Systems",
+      "technologies": ["Python", "LLMs"],
+      "icon": "fas fa-user-astronaut",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/southstar-ai-copilot",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/southstar-ai-copilot"
+      }
+    },
+    {
+      "title": "self-tool-agent",
+      "description": "An AI agent project exploring self-directed tool use",
+      "longDescription": "An agent project exploring self-directed tool selection and use, built in Python.",
+      "category": "GenAI & Agentic Systems",
+      "technologies": ["Python", "AI Agents"],
+      "icon": "fas fa-robot",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/self-tool-agent",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/self-tool-agent"
+      }
+    },
+    {
+      "title": "strategiz-agent",
+      "description": "A Python-based AI agent project",
+      "longDescription": "A Python-based AI agent project focused on strategic planning and decision workflows.",
+      "category": "GenAI & Agentic Systems",
+      "technologies": ["Python", "AI Agents"],
+      "icon": "fas fa-chess",
+      "color": "#0078D4",
+      "image": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/SumanthKumar00/strategiz-agent",
+      "links": {
+        "github": "https://github.com/SumanthKumar00/strategiz-agent"
       }
     }
   ]
