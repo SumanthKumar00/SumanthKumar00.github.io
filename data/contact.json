@@ -14,8 +14,8 @@
     {
       "type": "phone",
       "label": "Phone",
-      "value": "(470) 252-6919",
-      "href": "tel:4702526919",
+      "value": "+1(408)758-1287",
+      "href": "tel:4087581287",
       "icon": "fas fa-phone",
       "color": "#4ECDC4"
     },
@@ -74,7 +74,7 @@
   "socialMedia": [
     {
       "platform": "LinkedIn",
-      "url": "https://www.linkedin.com/in/sumanth-kumar-s-2a0619236/",
+      "url": "https://www.linkedin.com/in/sumanth-sivadi/",
       "icon": "fab fa-linkedin",
       "color": "#0077B5"
     },
